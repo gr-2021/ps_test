@@ -5,7 +5,7 @@
 ### Sumario
 
 - [Oque esperar do powershell Lv 2?](#oque-esperar-do-powershell-lv-2?)
-  - [Topico 1 Revisao Shell](#topico-1:-revisao-shell)
+  - [Topico 1 Revisao Shell](#topico-1-revisao-shell)
     - [Regras de Ouro do Shell](#regras-de-ouro-do-shell)
     - [Comandos do Powershell](#comandos-do-powershell)
   - [Topico 2 Revisao Powershell Script](#topico-2-revisao-powershell-script)
@@ -30,11 +30,13 @@ Basicamente oque voces aprenderam no simple_bash / powershell lv 1 foi o seguint
 - Introducao ao Powershell Scripting com varios exercicios.
 
 
-#### Topico 1: Revisao Shell
+#### Topico 1 Revisao Shell
 
 ----
 
 Antes de aprender qualquer ferramenta de programacao, e muito importante conhecer os principios basicos do Shell (terminal). O terminal é dividido em algumas categorias, o `Powershell` e o `CMD` sao os sistemas de interface de linha de comando do Windows e o `Shell` mesmo e a interface do Linux. Sendo assim, e muito importante conhecer essa ferramenta importante que nada mais e que a base para comecar a codar.
+
+Formulários Revisão Shell/Terminal: https://forms.gle/ChBocsePn5XqRv1u9
 
 ##### Regras de Ouro do Shell
 
@@ -147,6 +149,9 @@ Resumidamente, esses sao alguns dos comandos basicos do terminal powershell.
 ----
 
 Todos os comandos que foram utilizados ate agora foram construido utilizando a linguagem powershell, nos podemos tambem criar nossos proprios programas e aplicacoes da mesma forma. Para isso e necessario entender alguns conceitos mais fundamentais. Sao eles as variaveis e como criar seu primeiro script powershell.
+
+Formulário Revisão Powershell Lv 1: https://forms.gle/hxnTsGXAin8Re4Fb6
+
 
 ##### Scripts em Powershell
 
